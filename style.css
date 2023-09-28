@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	text-transform:capitalize;
+	border: 2px; solid teal;
+	border-radius: 10px;
+	color:blueviolet;
+	background-color: bisque;
+	text-shadow: 1px 1px 2px rgb(248, 7, 48);
+}
+
+ body{
+	background-color: coral;
+ }   
+ h2{text-align: center;
+    padding-top: 100px}
+ 
+ .intro{text-align: center;font-weight:bold;
+        text-transform: uppercase;padding-top:50px;border-block-start-color: red;writing-mode: horizontal-tb;}
+ .tagline{text-align: center;
+	      font-family:Dancing Script,cursive;
+		  vertical-align: bottom;
+		border-radius: 20px;padding-top: 200px;}
+ 
+ h1{font-family:Dancing Script,cursive;
+	font-weight: bold;
+	}
+	.intro{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
